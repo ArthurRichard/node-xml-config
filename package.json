@@ -1,0 +1,29 @@
+{
+  "name": "xml-config",
+  "version": "1.0.1",
+  "description": "Handles simple xml configuration files",
+  "main": "xml-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurRichard/node-xml-config.git"
+  },
+  "keywords": [
+    "xml",
+    "configuration",
+    "file",
+    "config"
+  ],
+  "author": "Arthur RICHARD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurRichard/node-xml-config/issues"
+  },
+  "homepage": "https://github.com/ArthurRichard/node-xml-config#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "xml2js": "^0.4.17"
+  }
+}
